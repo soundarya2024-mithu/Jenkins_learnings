@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="gmailAutomation.GmailTestCases">
+      <class name="gmailLearning.GmailAutomation">
         <methods>
           <include name="launchBrowser"/>
         </methods>
-      </class> <!-- gmailAutomation.GmailTestCases -->
+      </class> <!-- gmailLearning.GmailAutomation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
